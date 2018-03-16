@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+        tools:locale="es">
+    <string name="app_name">GridColors</string>
+    <string-array name="colors">
+        <item>rojo</item> /* red */
+        <item>azul</item> /* blue */
+        <item>verde</item> /* green */
+        <item>negro</item> /* black */
+        <item>blanco</item> /* white */
+        <item>gris</item> /* gray */
+        <item>cyan</item> /* cyan */
+        <item>magenta</item> /* magenta */
+        <item>amarillo</item> /* yellow */
+        <item>gris claro</item> /* light gray */
+    </string-array>
+</resources>
